@@ -1,5 +1,7 @@
 # 43inch-android-advertising-machines for shopping mall
 
+![H171dbbd8de104f5cb26f56f2e860647aQ.jpg_960x960](D:\图片\产品图片总结\ZA 系列图片\D型\43,49 inch\H171dbbd8de104f5cb26f56f2e860647aQ.jpg_960x960.JPG)
+
 # Specifications:
 
 <table border="1">
