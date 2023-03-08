@@ -1,6 +1,7 @@
-# 43inch-android-advertising-machines for shopping mall
+# 3inch-android-advertising-machines for shopping mall
 
-![H7d69a8f650d24e1fb800ed04bca1faf3l.jpg_960x960](C:\Users\admin\Desktop\H7d69a8f650d24e1fb800ed04bca1faf3l.jpg_960x960.JPG)
+![H7d69a8f650d24e1fb800ed04bca1faf3l jpg_960x960](https://user-images.githubusercontent.com/117702559/223655890-b75df970-4574-4ba2-99cb-90ef10598a07.JPG)
+
 
 # Specifications:
 
